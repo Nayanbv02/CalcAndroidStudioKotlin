@@ -16,7 +16,7 @@ Este proyecto es un ejemplo para aprender sobre la creación de interfaces gráf
 ---
 
 ## Captura de Pantalla
-<p align="center"><img src="https://cdn.discordapp.com/attachments/765658882453536768/1329130733868027945/screenKotlin.png?ex=678938f5&is=6787e775&hm=c476f9c966b9ebecf32eae6fcc8d13c165cbc47a3cc8af71c13e61b676603d97&"/></p>
+<p align="center"><img src="https://media.discordapp.net/attachments/765658882453536768/1329130733868027945/screenKotlin.png?ex=67b6b4b5&is=67b56335&hm=244a47b248686e7a300766de757443cc668ad05105ee9b415f34e4f958ca31a1&=&format=webp&quality=lossless&width=300&height=676"/></p>
 
 ---
 
